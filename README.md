@@ -20,6 +20,19 @@ Key Features:
 ⚡ Speed & Minimalism: Lightweight, lightning-fast launch, and instant command execution.
 The ultimate solution for flashers, developers, and power users who frequently work with custom ROMs and system tweaks.
 
+<p align="center">
+  <img src="<img width="1440" height="3000" alt="Rounded_20260901_160705" src="https://github.com/user-attachments/assets/7c5a6820-41af-44f4-8175-d8d29ab28617" />
+" width="30%" />
+  <img src="<img width="1440" height="3000" alt="Rounded_20260901_160654" src="https://github.com/user-attachments/assets/74224ccc-de62-4d51-a917-e67c20820336" />
+" width="30%" />
+  <img src="<img width="2880" height="1440" alt="Rounded_20260901_171323" src="https://github.com/user-attachments/assets/093db8f0-d8da-4951-8108-d08ba31c8b87" />
+" width="30%" />
+  <img src="<img width="1440" height="3000" alt="Rounded_20260901_163456" src="https://github.com/user-attachments/assets/64ec23bb-8714-42f2-a1dc-329cbab99c9e" />
+" width="30%" />
+  <img src="<img width="4619" height="2598" alt="Rounded_20260901_191845" src="https://github.com/user-attachments/assets/af9d22f4-8295-4714-a1e1-b5d967269413" />
+" width="30%" />
+</p>
+
 ## 📥 Download
 
 The official version of the app is available on Google Play:
